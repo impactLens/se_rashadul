@@ -1,4 +1,6 @@
-Rashadul Islam (B.Sc. in CSE,CSC, Bangladesh, Canada)
+Rashadul Islam 
+B.Sc. in CSE,CSC
+Bangladesh, Canada)
 
 [Cover letter](https://github.com/impactLens/se_rashadul/raw/refs/heads/main/CoverLetter_se.pdf)
 
